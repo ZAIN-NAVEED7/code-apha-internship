@@ -1,2 +1,2 @@
 # code-apha-internship
-crated an age calculator which takes the input from the user and determine the age using javascript in html and css
+created  age calculator which takes the input from the user and determine the age using javascript in html and css.
